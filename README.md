@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haileej
-- 👀 I’m interested in learning more coding. This could include python, C++, or I'm even in the very early stages of introducing myself to SQL.
-- 🌱 I’m currently learning python and C++
+- 👀 I’m interested in learning more coding. I also want to persue a MSEE.
+- 🌱 I’m currently learning python and have some experience with C++
 - 💞️ I’m looking to collaborate on python files
 - 📫 How to reach me: no13name@yahoo.com
 
