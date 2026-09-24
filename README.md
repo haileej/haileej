@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @haileej
-- 👀 I’m interested in learning more coding. I also want to persue a MSEE.
-- 🌱 I’m currently learning python and have some experience with C++
-- 💞️ I’m looking to collaborate on python files
-- 📫 How to reach me: no13name@yahoo.com
+- 👀 I’m persueing an MSECE as UC Davis.
+- 📫 How to reach me: haileejulius24@gmail.com
 
 <!---
 haileej/haileej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
